@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!--============= item belt jobs ===============-->
+
+  <JobDef>
+    <defName>AddItemToBelt</defName>
+    <driverClass>ItemBelt.JobDriver_AddItemToBelt</driverClass>
+    <reportString>putting TargetA in belt</reportString>
+  </JobDef>
+  
+  <JobDef>
+    <defName>RemoveItemFromBelt</defName>
+    <driverClass>ItemBelt.JobDriver_RemoveItemFromBelt</driverClass>
+    <reportString>remove TargetA from item belt</reportString>
+  </JobDef>
+  
+  <JobDef>
+    <defName>UseItemFromBelt</defName>
+    <driverClass>ItemBelt.JobDriver_UseBeltItem</driverClass>
+    <reportString>using TargetA from item belt</reportString>
+  </JobDef>
+  
+</Defs>

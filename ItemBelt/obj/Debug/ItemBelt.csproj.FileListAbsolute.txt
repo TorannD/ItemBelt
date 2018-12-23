@@ -1,0 +1,3 @@
+E:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ItemBelt\Assemblies\ItemBelt.dll
+E:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ItemBelt\ItemBelt\obj\Debug\ItemBelt.dll
+E:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ItemBelt\ItemBelt\obj\Debug\ItemBelt.csprojResolveAssemblyReference.cache

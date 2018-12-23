@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+<!-- Notification messages  -->
+
+<!-- Mod Settings -->
+
+
+
+<!-- ========== Menu Commands ========== -->
+<IB_AddToItemBelt>Add {0} to item slot</IB_AddToItemBelt>
+<IB_CannotDrop>Cannot drop {0} here</IB_CannotDrop>
+<IB_DropItemBeltAll>Drop {0} from item slot</IB_DropItemBeltAll>
+<IB_AddAllToBelt>Add {0} (all) to item slot</IB_AddAllToBelt>
+<IB_AddSomeToBelt>Add {0}... to item slot</IB_AddSomeToBelt>
+
+
+<!-- ========== Tooltips ========== -->
+
+
+
+</LanguageData>
